@@ -1,1 +1,1 @@
-web: bin/go-heroku-example
+web: bin/cmd
